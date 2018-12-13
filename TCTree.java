@@ -1,5 +1,4 @@
 
-// cassio.fraga-dantas@inria.fr    :)
 public class TCTree extends TableCorrespondance
 {
 	private Node Node;
